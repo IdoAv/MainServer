@@ -12,9 +12,4 @@
     <ProjectReference Include="..\MainServerBL\MainServerBL.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DTO\" />
-    <Folder Include="wwwroot\" />
-  </ItemGroup>
-
 </Project>
